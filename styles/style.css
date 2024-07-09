@@ -1,0 +1,49 @@
+/* top head section.*/
+
+
+.bg-img{
+    max-width: 1440px;
+    height: 650px;
+    background-image: url(../pictures/Hero-bg.png);
+    margin: 0 auto;
+}
+
+.my-icon{
+    max-width: 240px;
+    height: 240px;
+    margin: 0 auto;
+}
+
+.information{
+    max-width: 1000px;
+   margin: 0 auto;
+   text-align: center;
+}
+.title{
+    font-size: 48px;
+    font-weight: bold;
+    color: #0D1321;
+    font-family:Azeret Monno, monospace;
+    width: 100%;
+}
+.describe{
+    font-size: 16px;
+    font-weight: normal;
+    font-weight: bold;
+}
+.youtube-chanel{
+    text-decoration: none;
+    height: 65px;
+    width: 200px;
+    border-radius: 8px;
+    font-size: 24px;
+    background-color: #0D1321;
+    color: #ffffff;
+    box-shadow: #0D1321;
+    margin-top: 40px;
+}
+.youtube-chanel a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-top: 30px;
+}
