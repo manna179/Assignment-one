@@ -1,6 +1,8 @@
 /* top head section.*/
 
-
+*{
+    font-family: Azeret Monno, monospace;
+}
 .bg-img{
     max-width: 1440px;
     height: 650px;
@@ -12,6 +14,7 @@
     max-width: 240px;
     height: 240px;
     margin: 0 auto;
+    margin-bottom: 32px;
 }
 
 .information{
@@ -25,6 +28,7 @@
     color: #0D1321;
     font-family:Azeret Monno, monospace;
     width: 100%;
+    margin-bottom: 24px;
 }
 .describe{
     font-size: 16px;
@@ -46,4 +50,45 @@
     text-decoration: none;
     color: #ffffff;
     margin-top: 30px;
+}
+
+/* second/ */
+
+.one{
+    max-width: 1140px;
+    background-color: hsl(0, 50%, 98%);
+    margin: 0 auto;
+    margin-top: 70px;
+    @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+}
+.statement .dev{
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: Azeret Monno, monospace;
+
+}
+.statement .info{
+    font-size: 16px;
+    font-weight: 500;
+
+
+}
+.statement{
+    margin: 0 auto;
+    text-align: center;
+    width: 90%;
+}
+
+
+.layer-0ne{
+    display: flex;
+    margin: 0 auto;
+}
+.text{
+    margin-right: 110px;
+}
+.expres{
+    font-size: 24px;
+    font-weight: bold;
+    color: #0D1321;
 }
