@@ -126,6 +126,7 @@
     color: #ffffff;
     box-shadow: #0D1321;
     background-color:white;
+    margin-top: 15px;
     
 }
 .lern-more a{
@@ -149,4 +150,8 @@
     padding-right: 48px;
     gap: 40px;
 
+}
+
+.layer-three{
+    margin-top: 64px;
 }
