@@ -164,7 +164,7 @@
 
 .inspired{
     max-width: 1140px;
-    height: 700px;
+    height: 900px;
     margin: 0 auto;
     
 }
@@ -201,4 +201,147 @@
    justify-content: center;
    align-items: center;
    border-radius: 10px;
+}
+
+
+/* .last section  */
+
+.last{
+    
+    height:500px;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.last-div{
+    text-align: center;
+}
+
+.last-div .title{
+    text-align: center;
+    margin: 0 auto;
+    font-size: bolder;
+}
+.last-div .description{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+
+/* .cartbox */
+
+.cart-one{
+    width: 362px;
+    height: 270px;
+    background-color: #fff5f5;
+    padding-left: 10px;
+    padding-right: 10px;
+    gap: 24px;
+    border-radius: 10px;
+
+}
+.cart-one .end{
+    font-size: 24px;
+    font-weight: bold;
+ 
+
+}
+.cart-one .set-end{
+    font-size: 16px;
+    font-weight: bold;
+}
+.cart-one .link{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #fff5f5;
+    color: black;
+    border: none;    
+}
+.cart-box{
+    display: flex;
+    margin: 0 auto;
+    gap: 20px;margin-bottom: 20px;
+}
+.cart-box img{
+    margin-top: 30px;
+}
+
+
+/* .cart-two */
+
+
+.cart-two{
+    width: 362px;
+    height: 270px;
+    background-color: #ecf6ff;
+    padding-left: 10px;
+    padding-right: 10px;
+    gap: 24px;
+    border-radius: 10px;
+}
+.cart-two .end{
+    font-size: 24px;
+    font-weight: bold;
+ 
+
+}
+.cart-two .set-end{
+    font-size: 16px;
+    font-weight: bold;
+}
+.cart-two .link{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ecf6ff;
+    color: black;
+    border: none;
+} 
+
+
+/* .cart-three */
+
+
+
+.cart-three{
+    width: 362px;
+    height: 270px;
+    background-color: #fffdf0;
+    padding-left: 10px;
+    padding-right: 10px;
+    gap: 24px;
+    border-radius: 10px;
+}
+
+.cart-three .end{
+    font-size: 24px;
+    font-weight: bold;
+ 
+
+}
+.cart-three .set-end{
+    font-size: 16px;
+    font-weight: bold;
+}
+.cart-three .link{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #fffdf0;
+    color: black;
+    border: none;   
+}
+
+/* last-end.part */
+
+
+.feedback{
+    max-width: 1140px;
+    height: 600px;
+    background-image: url(../pictures/handshake.jpg);
+    margin: 0 auto;
+    margin-top: 0px;
+    background-color: white;
+    display: flex;
+    background-size: cover;
+    border-radius: 16px;
+    box-shadow: black;
 }
